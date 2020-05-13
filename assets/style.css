@@ -1,0 +1,26 @@
+body {
+    background-color: teal;
+}
+
+.colMargin {
+    margin: 10px;
+    border-style: solid;
+    text-align: center;
+}
+
+.portText {
+    background-color: blue;
+    width: 100%;
+    margin-bottom: 25px;
+    position: absolute;
+    bottom: 0;
+    padding-right: 10px;
+}
+
+.imgClass {
+    position: relative;
+}
+
+.portLink {
+    margin-top: 10px;
+}
