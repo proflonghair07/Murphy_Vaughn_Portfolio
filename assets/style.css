@@ -24,3 +24,13 @@ body {
 .portLink {
     margin-top: 10px;
 }
+
+.portfolio-img {
+    width: 535px;
+    height: 460px;
+}
+
+/* .portfolio-img {
+    width: 50%;
+    height: 50%;
+} */
