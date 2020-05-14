@@ -38,6 +38,11 @@ body {
 
 h4 {
     padding-top: 15px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
 }
 
 html {
@@ -83,4 +88,21 @@ body {
       margin-top: 25px;
       margin-left: 25px;
       
+  }
+
+  .margin-bottom {
+      margin-bottom: 15px;
+  }
+
+  .container-padding {
+      padding-right: 45px;
+  }
+
+  .hr-contact {
+    margin-top: 1rem;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    border: 0;
+    border-top: 2px solid black;
+    width:100%;
   }
