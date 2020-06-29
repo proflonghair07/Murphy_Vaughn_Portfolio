@@ -37,6 +37,7 @@ h1 {
 
 .container-padding {
   padding-right: 45px;
+  width: 100%;
 }
 
 .hr-contact {
@@ -89,10 +90,11 @@ h1 {
 
 .portLink {
   margin-bottom: 25px;
+  height: 100%;
 }
 
 .portfolio-img {
-  width: 535px;
+  width: 900px;
   height: 460px;
 }
 
@@ -106,4 +108,14 @@ h1 {
   background-color: #36454f;
   padding: 15px 25px 15px 25px;
   object-fit: cover;
+}
+
+#footer-text {
+  color: black !important;
+  font-size: 25px !important;
+}
+
+.fa {
+  color: black !important;
+  font-size: 25px !important;
 }
