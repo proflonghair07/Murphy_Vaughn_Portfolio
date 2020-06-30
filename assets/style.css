@@ -61,8 +61,27 @@ h1 {
 }
 
 .containerColor {
-  background-color: #7b889e;
+  background-color: #7b889ede;
+  border-radius: 4px;
   margin-top: 20px;
+}
+
+.index-body {
+  background-image: url("https://i.imgur.com/bLxcjh3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio-body {
+  background-image: url("https://cdn.miscellaneoushi.com/1920x1200/20180226/5a947ed0a974e.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-thumbnail {
+  background-image: url("https://images.creativemarket.com/0.1.0/ps/5300690/2976/1984/m1/fpnw/wm0/light-grey-background-.jpg?1541109596&s=100424620c8c323575d23992f1d7cad5");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .nav-color {
@@ -94,8 +113,10 @@ h1 {
 }
 
 .portfolio-img {
-  width: 900px;
-  height: 460px;
+  width: 100%;
+  height: 350px;
+  box-shadow: 3px 2px 2px gray;
+  border-radius: 2px;
 }
 
 .margin-top {
@@ -118,4 +139,19 @@ h1 {
 .fa {
   color: black !important;
   font-size: 25px !important;
+}
+
+.contact {
+  background-color: #394d6d;
+  padding-bottom: 15px;
+  border-radius: 3px;
+  margin-left: 15px;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
 }
