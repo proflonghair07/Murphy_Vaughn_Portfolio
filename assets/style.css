@@ -142,10 +142,30 @@ h1 {
 }
 
 .contact {
-  background-color: #394d6d;
+  background-image: url("https://tru-ray.com/files/tru_ray_content/color_swatches/Tru-Ray_Royal-Blue.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   padding-bottom: 15px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
   border-radius: 3px;
   margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.business-card-hr {
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.outer-line {
+  width: 40%;
+  border-bottom: 1px solid black;
 }
 
 .carousel-control-next-icon {
