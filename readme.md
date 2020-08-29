@@ -2,6 +2,8 @@
 
 ## Check the portfolio out here [here](https://proflonghair07.github.io/Murphy_Vaughn_Portfolio/)
 
+## ![](assets/images/Portfolio_Screenshot.PNG)
+
 ## ![](assets/images/portfolio_gif.gif)
 
 ## This project contains 3 html pages. The pages are index, contact, and portfolio. It uses bootstrap css and a stylesheet I created locally, in that order. My style sheet is second so that I am able to overwrite styles from bootstrap to get the results needed. All three pages contain identical nav bars and sticky footers. I activated the drop down menu for the header by adding bootstrap's javascript in a script tag. I placed this at the bottom of the page just before the closing body tag. I did this so that browser could load all of the graphical elements before loading the javascript. All three pages utilize Bootsraps components and grid system. The pages look good in all sizes of scalability. This was achieved by heavily using bootsraps classes. Especially the container row and col classes. These characteristics are shared by all 3 pages, but they are different from each other in other ways.
