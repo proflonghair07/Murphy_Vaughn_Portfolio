@@ -80,12 +80,14 @@ a:hover {
 
 .containerColor {
   background-color: #7b889ede;
+  backdrop-filter: blur(1.5px);
   border-radius: 4px;
   margin-top: 20px;
 }
 
 .port-container {
   background-color: #7b889ede;
+  backdrop-filter: blur(1.5px);
   border-radius: 4px;
   margin-top: 20px;
   padding-right: 55px;
