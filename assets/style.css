@@ -63,6 +63,11 @@ a:hover {
   width: 100%;
 }
 
+.please-please-work {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .footer {
   position: fixed;
   bottom: 0px;
@@ -71,13 +76,24 @@ a:hover {
   line-height: 60px;
   background-color: #394d6d;
   text-align: center;
-  margin-bottom: 0px !important;
 }
 
 .containerColor {
   background-color: #7b889ede;
   border-radius: 4px;
   margin-top: 20px;
+}
+
+.port-container {
+  background-color: #7b889ede;
+  border-radius: 4px;
+  margin-top: 20px;
+  padding-right: 55px;
+  width: 300rem !important;
+}
+
+.container-margin {
+  height: 20px;
 }
 
 .index-body {
@@ -141,6 +157,7 @@ a:hover {
 .resume-container {
   height: 45rem;
   background-color: gray;
+  padding-bottom: 20px;
 }
 
 .murphy-color {
@@ -201,4 +218,8 @@ span {
 
 #brand-statement {
   font-size: 17px;
+}
+
+#container-margin {
+  margin-bottom: 0px;
 }
