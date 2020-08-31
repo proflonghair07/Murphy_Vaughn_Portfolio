@@ -106,6 +106,7 @@ a:hover {
   background-image: url("https://cdn.miscellaneoushi.com/1920x1200/20180226/5a947ed0a974e.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .img-thumbnail {
