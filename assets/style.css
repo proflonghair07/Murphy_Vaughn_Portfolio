@@ -112,7 +112,7 @@ a:hover {
 }
 
 .img-thumbnail {
-  background-image: url("https://jooinn.com/images1280_/gray-concrete-grunge-texture-background.jpg");
+  background-image: url("https://images.pexels.com/photos/82256/pexels-photo-82256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -225,4 +225,8 @@ span {
 
 #container-margin {
   margin-bottom: 0px;
+}
+
+#bottom-spacer {
+  height: 100px;
 }
