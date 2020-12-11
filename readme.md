@@ -1,6 +1,6 @@
 # Murphy Vaughn's Portfolio
 
-## Check the portfolio out [here](https://proflonghair07.github.io/Murphy_Vaughn_Portfolio/)
+## Check out the portfolio [here](https://proflonghair07.github.io/Murphy_Vaughn_Portfolio/)
 
 ## ![](assets/images/Portfolio_Screenshot.PNG)
 
